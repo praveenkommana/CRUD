@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Reddy",
+      "place": "delhi",
+      "phone": "9876543231"
+    },
+    {
+      "id": "56",
+      "name": "Sanjay",
+      "place": "Mysore",
+      "phone": "9786767641"
+    },
+    {
+      "id": "5",
+      "name": "praveen",
+      "place": "dulla",
+      "phone": "9985851955"
+    },
+    {
+      "id": "6",
+      "name": "saivamsi",
+      "place": "mandapeta",
+      "phone": "9177121018"
+    },
+    {
+      "id": "10",
+      "name": "admin",
+      "place": "yeditha",
+      "phone": "9885079007"
+    },
+    {
+      "id": "10",
+      "name": "Siva",
+      "place": "Nagpur",
+      "phone": "7288802470"
+    },
+    {
+      "id": "15",
+      "name": "Yamaja",
+      "place": "Vijayawada",
+      "phone": "9976761234"
+    }
+  ]
+}
